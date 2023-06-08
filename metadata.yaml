@@ -1,0 +1,42 @@
+_repo: Catalogue-of-the-dipterous-insects-collected-at-Singapore-and-Malacca-b-by-Mr-A-R-Wallace-wit__70907
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wallace, Alfred Russel
+    aliases:
+    - Wallace, A. R. (Alfred Russel)
+    - Wallace, Russell
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+creator:
+  author:
+    agent_name: Walker, Francis Amasa
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '32421'
+    url: http://www.gutenberg.org/2009/agents/32421
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Amasa_Walker
+description: ''
+gutenberg_issued: '2023-06-04'
+identifiers:
+  gutenberg: '70907'
+language: en
+pgterms:marc904: https://archive.org/details/Cataloguedipter00Wall
+pgterms:marc905: 20211120133957wallace
+pgterms:marc906: '1856'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJournal of the proceedings of the Linnean
+  Society of London, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Catalogue of the dipterous insects collected at Singapore and Malacca : $b
+  by Mr. A. R. Wallace, with descriptions of new species'
+url: http://www.gutenberg.org/ebooks/70907
