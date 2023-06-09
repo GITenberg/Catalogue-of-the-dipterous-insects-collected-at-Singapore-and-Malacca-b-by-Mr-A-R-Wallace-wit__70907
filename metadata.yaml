@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '955'
     url: http://www.gutenberg.org/2009/agents/955
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+covers:
+- cover_type: archival
+  image_path: 70907-h/images/cover.jpg
 creator:
   author:
     agent_name: Walker, Francis Amasa
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32421
     wikipedia: http://en.wikipedia.org/wiki/Francis_Amasa_Walker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70907#Catalogue-of-the-dipterous-insects-collected-at-Singapore-and-Malacca-b-by-Mr-A-R-Wallace-wit_
 gutenberg_issued: '2023-06-04'
 identifiers:
   gutenberg: '70907'
